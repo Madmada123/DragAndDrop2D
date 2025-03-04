@@ -7,3 +7,11 @@ obj/
 *.sln
 *.user
 *.suo
+# Игнорировать Unity Library и другие временные файлы
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
