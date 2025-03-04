@@ -1,0 +1,9 @@
+com.DefaultCompany.TDRop.launcher-pngs-0 C:\Users\Madi\TDRop\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.TDRop.launcher-resValues-1 C:\Users\Madi\TDRop\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.TDRop.launcher-rs-2 C:\Users\Madi\TDRop\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\rs\release
+com.DefaultCompany.TDRop.launcher-mergeReleaseResources-3 C:\Users\Madi\TDRop\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.TDRop.launcher-mergeReleaseResources-4 C:\Users\Madi\TDRop\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.TDRop.launcher-merged_res-5 C:\Users\Madi\TDRop\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.TDRop.launcher-main-6 C:\Users\Madi\TDRop\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.DefaultCompany.TDRop.launcher-release-7 C:\Users\Madi\TDRop\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.DefaultCompany.TDRop.launcher-packaged_res-8 C:\Users\Madi\TDRop\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release
