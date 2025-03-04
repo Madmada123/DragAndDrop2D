@@ -1,0 +1,15 @@
+# Visual Studio и Rider
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+
+# Unity
+Library/
+Logs/
+Temp/
+obj/
+Build/
+Builds/
+UserSettings/
